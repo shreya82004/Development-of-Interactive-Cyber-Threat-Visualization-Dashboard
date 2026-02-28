@@ -15,6 +15,9 @@ Infosys Internship Project | Group 1
 https://github.com/user-attachments/assets/66aad8cf-4c7f-4808-85e1-83d1cdc023b4
 ## 📌 Project Overview  
 
+📊 Project Presentation
+📂 Slides: CyberShield Presentation.pptx
+
 CyberShield is a real-time **Security Operations Center (SOC) Dashboard** built using React.  
 It simulates a live cyber threat intelligence monitoring platform with dynamic visualizations and interactive security tools.
 
