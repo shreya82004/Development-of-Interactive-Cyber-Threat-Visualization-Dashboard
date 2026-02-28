@@ -10,6 +10,11 @@ Infosys Internship Project | Group 1
 🔗 **Live Demo:** https://dashb-mu.vercel.app/
 
 ---
+---
+
+## 🎬 Project Demo  
+
+[▶ Watch Demo Video](./cybershield-demo.mp4)
 
 ## 📌 Project Overview  
 
