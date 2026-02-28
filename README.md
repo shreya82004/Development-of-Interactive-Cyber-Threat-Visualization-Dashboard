@@ -14,7 +14,12 @@ Infosys Internship Project | Group 1
 
 ## 🎬 Project Demo  
 
-[▶ Watch Demo Video](./cybershield-demo.mp4)
+## 🎬 Live Project Demonstration
+
+## 🎬 Live Project Demonstration
+
+<video src="./cybershield-demo.mp4" controls width="100%"></video>
+
 
 ## 📌 Project Overview  
 
