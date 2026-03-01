@@ -12,7 +12,11 @@ Infosys Internship Project | Group 1
 ---
 ## 🎬 Live Project Demonstration
 
-https://github.com/user-attachments/assets/66aad8cf-4c7f-4808-85e1-83d1cdc023b4
+
+
+https://github.com/user-attachments/assets/9f6bec1e-6a04-4b48-bb7b-134025b61a16
+
+
 ------
 📊 Project Presentation
 📂 Slides:https://docs.google.com/presentation/d/1GYu20XnjYGwvk7lzoGpKVQNyJ-tFS7Qz/edit?usp=sharing&ouid=102286687417605526291&rtpof=true&sd=true
