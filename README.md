@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/9f6bec1e-6a04-4b48-bb7b-134025b61a16
 📊 Project Presentation
 📂 Slides:## 📊 Project Presentation
 
-📂 **Slides:** [PPT.pptx](./CyberShield%20Presentation.pptx)
+📂 **Slides:** [PPT.pptx](PPT.pptx)
 -------
 ## 📌 Project Overview  
 
